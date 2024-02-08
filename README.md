@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm diefulim</h1>
 
-- 🔭 I’m currently working on **patient registration automation**
+- 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **C, HTML, Boostrap, Java, Nodejs, CSS**
+- 🌱 I’m currently learning **C, HTML, Boostrap, JavaScript, CSS**
 
 - 📫 How to reach me **diefulim**
 
